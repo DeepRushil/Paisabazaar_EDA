@@ -1,4 +1,5 @@
 <img width="426" height="426" alt="image" src="https://github.com/user-attachments/assets/431f3b06-092a-47e1-bacb-62fb6ba88e07" />
+
 #Exploratory Data Analysis - Paisabazaar (Capstone Project)
 #Credit Score Classification & Risk Analysis – Paisabazaar Case Study
 
