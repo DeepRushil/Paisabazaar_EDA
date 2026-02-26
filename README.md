@@ -1,2 +1,2 @@
-# Paisabazaar_EDA
+# Paisabazaar_Exploratory_Data_Analysis
 Paisabazaar Banking Fraud Analysis
